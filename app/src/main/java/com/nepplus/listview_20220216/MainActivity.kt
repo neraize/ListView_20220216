@@ -13,6 +13,8 @@ class MainActivity : AppCompatActivity() {
 
     // 테스트용 주석입니다
 
+    // 테스트용 주석입니다. 22
+
     lateinit var  mAdapter : StudentAdapter
     val mStudentList =  ArrayList<StudentData>()
 
