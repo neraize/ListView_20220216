@@ -11,6 +11,8 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
+    // 테스트용 주석입니다
+
     lateinit var  mAdapter : StudentAdapter
     val mStudentList =  ArrayList<StudentData>()
 
